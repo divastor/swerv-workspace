@@ -1,0 +1,5 @@
+swerv-app/out
+swerv-app/obj_dir
+swerv-app/*.log
+swerv-app/*.hex
+swerv-app/*.csv
